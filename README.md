@@ -13,7 +13,7 @@ The purpose of this analysis is to examine how earnings announcements affect the
 ## Files and Folders
 
 
-`./data_exploration` - contains Jupyter Notebooks. Use for data data Exploration, visuzulations, model training
+`./data_exploration` - contains Jupyter Notebooks. Use for data Exploration, visuzulations, model training
 
 `./data` - contains dataset used for analysis
 
