@@ -6,6 +6,27 @@ The purpose of this analysis is to examine how earnings announcements affect the
 
 ![Stock-Chart](Images/stock_chart.gif) 
 
+## Authors
+
+* [Axander Wilson](https://github.com/AxanderW)
+
+## Files and Folders
+
+
+`./data_exploration` - contains Jupyter Notebooks. Use for data explorationData Exploration, Visuzulations, and Linear Regression Model
+
+`./data` - contains dataset used for analysis
+
+
+## Dependencies
+
+* numpy
+* pandas
+* sklearn
+* yahoo-finance
+
+
+
 ## Analysis Question
 Does movement on the day after earnings predict movement in the following periods (day, week, month)?
 
