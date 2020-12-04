@@ -1,10 +1,10 @@
-# Stock Price Analysis | How will earnings announcements affect future stock prices?
+# Earnings Announcement and Stock Price Analysis | 
+
+![Stock-Chart](Images/stock_chart.gif) 
 
 ## Background
 
 The purpose of this analysis is to examine how earnings announcements affect the behavior of future stock prices. 
-
-![Stock-Chart](Images/stock_chart.gif) 
 
 ## Analysis Question
 Does movement on the day after earnings predict movement in the following periods (day, week, month)?
