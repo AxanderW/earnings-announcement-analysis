@@ -1,10 +1,10 @@
-# Earnings Announcement and Stock Price Analysis | 
-
-![Stock-Chart](Images/stock_chart.gif) 
+# Stock Price Analysis | Earnings Announcements 
 
 ## Background
 
 The purpose of this analysis is to examine how earnings announcements affect the behavior of future stock prices. 
+
+![Stock-Chart](Images/stock_chart.gif) 
 
 ## Analysis Question
 Does movement on the day after earnings predict movement in the following periods (day, week, month)?
@@ -49,7 +49,7 @@ In order to be considered in the analysis, a company must fall into category 1-4
 ## Results
 A total of 234 companies met the criteria for analysis. 
 
-![Full-data](Images/full_dataset.png) 
+![Full-data](Images/full_dataset.PNG) 
 
 A Linear Regression Model was trained and tested on the dataset.
 
@@ -57,21 +57,23 @@ A Linear Regression Model was trained and tested on the dataset.
 100 of the 234 data points fell into category 1.
 
 None of the independent variables showed a strong correlation with the response variable. 
-![Cat1-Correlation1](Images/cat1_corr1.png) 
+<br>
 
-![Cat1-Correlation2](Images/cat1_corr2.png) 
-
+![Cat1-Correlation1](Images/cat1_corr1.PNG) 
+<br>
+![Cat1-Correlation2](Images/cat1_corr2.PNG) 
+<br>
 The strongest correlation variable was the price change on announcement day (-0.28). 
-
-![Cat1-Correlation3](Images/cat1_corr3.png) 
+<br>
+![Cat1-Correlation3](Images/cat1_corr3.PNG) 
 
 #### Coefficients:
 
-![Cat1-Coeffient1](Images/cat1_coe1.png) 
+![Cat1-Coeffient1](Images/cat1_coe1.PNG) 
 
 #### Intercept:
 
-![Cat1-Intercept1](Images/cat1_int1.png) 
+![Cat1-Intercept1](Images/cat1_int1.PNG) 
 
 ### Category 1 Conclusion:
 
