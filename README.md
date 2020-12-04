@@ -61,11 +61,12 @@ None of the independent variables showed a strong correlation with the response 
 The strongest correlation variable was the price change on announcement day (-0.28). 
 <br>
 
+#### Visualizations:
+
 ![Cat1-Correlation1](Images/cat1_corr1.PNG) 
 <br>
 ![Cat1-Correlation2](Images/cat1_corr2.PNG) 
 
-<br>
 ![Cat1-Correlation3](Images/cat1_corr3.PNG) 
 
 #### Coefficients:
