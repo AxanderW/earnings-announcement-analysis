@@ -75,7 +75,7 @@ A total of 234 companies met the criteria for analysis.
 A Linear Regression Model was trained and tested on the dataset.
 
 ## Category 1:
-100 of the 234 data points fell into category 2.
+100 of the 234 data points fell into category 1.
 
 None of the independent variables showed a strong correlation with the response variable. 
 
@@ -104,7 +104,7 @@ The strongest correlation variable was the price change on announcement day (-0.
 The model yielded a negative r-squared score of -0.003. Note that it is possible to get a negative R-square for equations that do not contain a constant term. Because R-square is defined as the proportion of variance explained by the fit, if the fit is worse than just fitting a horizontal line then R-square is negative. In this case, R-square cannot be interpreted as the square of a correlation. Such situations indicate that a constant term should be added to the model. The mean square error was 0.058. So, the model was an average of 0.06 percent change away from the ground truth percentage when making predictions on our test set.
 
 ## Category 2:
-90 of the 234 data points fell into category 1.
+90 of the 234 data points fell into category 2.
 
 None of the independent variables showed a strong correlation with the response variable. 
 
@@ -130,7 +130,7 @@ The strongest correlation variable was the price change in the week preceding th
 
 ### Category 2 Conclusion:
 
-The model yielded a negative r-squared score of 0.15739. So in our model, 15.74% of the variability in Y can be explained using X. The mean square error was 0.06074. So, the model was an average of 0.06 percent change away from the ground truth percentage when making predictions on our test set.
+The model yielded an r-squared score of 0.15739. So in our model, 15.74% of the variability in Y can be explained using X. The mean square error was 0.06074. So, the model was an average of 0.06 percent change away from the ground truth percentage when making predictions on our test set.
 
 ## Category 3:
 11 of the 234 data points fell into category 3.
@@ -159,7 +159,7 @@ The strongest correlation variable was the price change in the week preceding th
 
 ### Category 3 Conclusion:
 
-The model yielded a negative r-squared score of 0.20497. So in our model, 20.50% of the variability in Y can be explained using X. The mean square error was 0.07126. So, the model was an average of 0.07 percent change away from the ground truth percentage when making predictions on our test set.
+The model yielded an r-squared score of 0.20497. So in our model, 20.50% of the variability in Y can be explained using X. The mean square error was 0.07126. So, the model was an average of 0.07 percent change away from the ground truth percentage when making predictions on our test set.
 
 ## Category 4:
 33 of the 234 data points fell into category 4.
@@ -188,7 +188,7 @@ The strongest correlation variable was the price change on announcement day (0.4
 
 ### Category 4 Conclusion:
 
-The model yielded a negative r-squared score of 0.19152. So in our model, 19.15% of the variability in Y can be explained using X. The mean square error was 0.07302. So, the model was an average of 0.07 percent change away from the ground truth percentage when making predictions on our test set.
+The model yielded an r-squared score of 0.19152. So in our model, 19.15% of the variability in Y can be explained using X. The mean square error was 0.07302. So, the model was an average of 0.07 percent change away from the ground truth percentage when making predictions on our test set.
 
 ## Future Analysis:
 
