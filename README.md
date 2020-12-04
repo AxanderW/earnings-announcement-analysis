@@ -57,13 +57,14 @@ A Linear Regression Model was trained and tested on the dataset.
 100 of the 234 data points fell into category 1.
 
 None of the independent variables showed a strong correlation with the response variable. 
+
+The strongest correlation variable was the price change on announcement day (-0.28). 
 <br>
 
 ![Cat1-Correlation1](Images/cat1_corr1.PNG) 
 <br>
 ![Cat1-Correlation2](Images/cat1_corr2.PNG) 
-<br>
-The strongest correlation variable was the price change on announcement day (-0.28). 
+
 <br>
 ![Cat1-Correlation3](Images/cat1_corr3.PNG) 
 
